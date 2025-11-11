@@ -1,4 +1,4 @@
-package com.matamoros.secundaclasesilla
+package com.matamoros.mamarufy
 
 import android.content.Context
 import android.content.Intent
@@ -12,8 +12,6 @@ import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
-import com.matamoros.secundaclasesilla.MainActivity
-import com.matamoros.secundaclasesilla.Registrar
 
 class Login : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

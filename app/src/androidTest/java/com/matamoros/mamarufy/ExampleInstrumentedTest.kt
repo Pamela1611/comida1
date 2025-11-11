@@ -1,4 +1,4 @@
-package com.matamoros.secundaclasesilla
+package com.matamoros.mamarufy
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

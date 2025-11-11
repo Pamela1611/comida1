@@ -1,4 +1,4 @@
-package com.matamoros.secundaclasesilla
+package com.matamoros.mamarufy
 
 import org.junit.Test
 

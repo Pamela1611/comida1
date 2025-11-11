@@ -1,4 +1,4 @@
-package com.matamoros.secundaclasesilla
+package com.matamoros.mamarufy
 
 import android.os.Bundle
 import android.widget.Button
