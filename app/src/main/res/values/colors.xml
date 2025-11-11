@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="fondoprincipal">#B86DFE</color>
+    <color name="betsy">#01C3FF</color>
+    <color name="flores">#B40000</color>
+    <color name="johana">#0D0D0D</color>
+    <color name="garcia">#0D0D0D</color>
+
+
+
+
+</resources>
